@@ -1,0 +1,54 @@
+message,label
+"Hello, how are you today?",Safe
+"Thank you for your help yesterday.",Safe
+"The meeting is scheduled for tomorrow morning.",Safe
+"Your assignment has been received.",Safe
+"Please find the document attached.",Safe
+"I will call you when I arrive.",Safe
+"Your appointment is confirmed.",Safe
+"The lecture starts at ten o'clock.",Safe
+"Can you send me the class notes?",Safe
+"Your order has been shipped.",Safe
+"مرحبا كيف حالك اليوم؟",Safe
+"شكرا ليك على المساعدة.",Safe
+"المحاضرة بكرة الساعة عشرة صباحا.",Safe
+"تم استلام الواجب بنجاح.",Safe
+"سوف أتصل بك عندما أصل.",Safe
+"موعد الاجتماع غدا صباحا.",Safe
+"هل يمكنك إرسال ملخص المحاضرة؟",Safe
+"تم تأكيد موعدك.",Safe
+"سأرسل الملف بعد قليل.",Safe
+"أتمنى لك يومًا سعيدًا.",Safe
+"تم استلام طلبك بنجاح.",Safe
+"سنلتقي في الجامعة غدا.",Safe
+"أرسل لي جدول المحاضرات من فضلك.",Safe
+"وصلت إلى المنزل بسلام.",Safe
+"شكرا على رسالتك.",Safe
+"يرجى مراجعة الجدول الدراسي المرفق.",Safe
+"تم تحديث النظام بنجاح، شكرا لتعاونكم.",Safe
+"Congratulations you won a prize click here to claim now",Suspicious
+"Send your password and verification code to unlock your account",Suspicious
+"Pay an upfront processing fee to receive your compensation",Suspicious
+"Urgent your account will be closed verify your details immediately",Suspicious
+"You are guaranteed huge profits invest now",Suspicious
+"Send your bank details to receive your reward",Suspicious
+"You have been selected to receive free money pay delivery fees",Suspicious
+"Your account is blocked click this link immediately",Suspicious
+"Claim your lottery prize by paying a small fee today",Suspicious
+"Provide your OTP to prevent account suspension",Suspicious
+"مبروك ربحت جائزة اضغط هنا لاستلام المبلغ الآن",Suspicious
+"أرسل كلمة المرور ورمز التحقق لتفعيل حسابك",Suspicious
+"ادفع رسوم المعالجة مقدما لاستلام التعويض المالي",Suspicious
+"عاجل سيتم إغلاق حسابك إذا لم تؤكد بياناتك الآن",Suspicious
+"أرباح مضمونة ومضاعفة استثمر أموالك اليوم",Suspicious
+"أرسل بيانات حسابك البنكي لاستلام الجائزة",Suspicious
+"تم اختيارك للحصول على أموال مجانية ادفع رسوم التوصيل",Suspicious
+"حسابك محظور اضغط على الرابط لاستعادته فورا",Suspicious
+"ارسل رمز OTP حتى لا يتم إيقاف حسابك",Suspicious
+"تعويض مالي كبير ينتظرك أرسل بياناتك الشخصية",Suspicious
+"فرصة استثمار مضمونة لا يمكن أن تخسر أموالك",Suspicious
+"لقد ربحت اليانصيب أرسل رسوم الشحن لاستلام جائزتك",Suspicious
+"أرسل رقم البطاقة البنكية ورمز التحقق الآن",Suspicious
+"اربح آلاف الدولارات خلال يوم واحد بدون أي مخاطرة",Suspicious
+"آخر فرصة لاستلام المنحة أرسل بياناتك السرية",Suspicious
+"تنبيه أمني: يرجى تحديث بياناتك البنكية عبر الرابط التالي تفادياً لإيقاف البطاقة",Suspicious
